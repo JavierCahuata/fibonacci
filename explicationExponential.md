@@ -2,7 +2,7 @@
 
 Como vemos en la siguiente imagen tenemos el algoritmo de recursividad de los numeros fibonacci
 
-![image of fibonacci algoritm](https://raw.githubusercontent.com/JavierCahuata/fibonacci/master/20190913-180357.jpg)
+![image of fibonacci algoritm](https://raw.githubusercontent.com/JavierCahuata/fibonacci/master/20190913-180357x.jpg)
 
 
 Como podemos ver los podemos representar de la siguiente manera, mediante nodos.
